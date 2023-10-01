@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "In situ profiling of the three dominant phyla within the human gut using TaqMan PCR for pre-hospital diagnosis of gut dysbiosis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: [/publication/2009-10-01-paper-title-number-1](https://www.mdpi.com/1422-0067/21/6/1916)
+excerpt: 'The study presents a multiplex TaqMan qPCR assay (MTq-PCR) for quick profiling of dominant gut microbial phyla, aiding in Fecal Microbiota Transplantation (FMT) for ulcerative colitis (UC) treatment. This method is highlighted as a cost and time-effective alternative to conventional next-generation sequencing (NGS), suitable for emergency scenarios and routine microbiota monitoring in UC patients, as well as evaluating potential FMT donors.'
+date: 2020-03-11
+venue: 'International journal of molecular sciences'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The study presents a multiplex TaqMan qPCR assay (MTq-PCR) for quick profiling of dominant gut microbial phyla, aiding in Fecal Microbiota Transplantation (FMT) for ulcerative colitis (UC) treatment. This method is highlighted as a cost and time-effective alternative to conventional next-generation sequencing (NGS), suitable for emergency scenarios and routine microbiota monitoring in UC patients, as well as evaluating potential FMT donors.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](files/publication1.pdf)
