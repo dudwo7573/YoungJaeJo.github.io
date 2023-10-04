@@ -6,4 +6,5 @@ excerpt: 'Fecal microbiota transplantation (FMT) shows promise as a treatment fo
 date: 2022-03-17
 venue: 'Journal of Inflammation Research'
 paperurl: 'https://www.tandfonline.com/doi/full/10.2147/JIR.S338212'
+
 ---
