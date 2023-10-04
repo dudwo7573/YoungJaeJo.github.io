@@ -1,10 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Alterations and Prediction of Functional Profiles of Gut Microbiota After Fecal Microbiota Transplantation for Iranian Recurrent Clostridioides difficile Infection with Underlying Inflammatory Bowel Disease A Pilot Study"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2022-03-17
+excerpt: 'Fecal microbiota transplantation (FMT) shows promise as a treatment for recurrent Clostridioides difficile infection (rCDI) in Iranian patients with underlying inflammatory bowel disease (IBD). In this study, eight IBD patients underwent FMT and were monitored for changes in gut microbiota. After FMT, patients showed improved health, increased gut microbiota diversity, and reduced dysbiosis. Notably, the abundance of the bacterium Prevotella increased post-FMT, correlating negatively with inflammation, suggesting its potential role in treating both CDI and IBD. The study underscores FMT's potential in altering the gut microbiome to benefit rCDI patients with IBD.'
+date: 2022-03-17
+venue: 'Journal of Inflammation Research'
+paperurl: 'https://www.tandfonline.com/doi/full/10.2147/JIR.S338212'
 ---
