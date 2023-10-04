@@ -3,7 +3,7 @@ title: "Alterations and Prediction of Functional Profiles of Gut Microbiota Afte
 collection: publications
 permalink: /publication/2022-9-17-paper2
 
-excerpt: 'Fecal microbiota transplantation (FMT) shows promise as a treatment for recurrent Clostridioides difficile infection (rCDI) in Iranian patients with underlying inflammatory bowel disease (IBD). In this study, eight IBD patients underwent FMT and were monitored for changes in gut microbiota. After FMT, patients showed improved health, increased gut microbiota diversity, and reduced dysbiosis. Notably, the abundance of the bacterium Prevotella increased post-FMT, correlating negatively with inflammation, suggesting its potential role in treating both CDI and IBD. The study underscores FMT's potential in altering the gut microbiome to benefit rCDI patients with IBD.'
+excerpt: ''
 date: 2020-03-11
 venue: 'International journal of molecular sciences'
 paperurl: 'https://www.mdpi.com/1422-0067/21/6/1916'
