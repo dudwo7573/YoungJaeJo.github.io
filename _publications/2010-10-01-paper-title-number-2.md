@@ -9,7 +9,5 @@ venue: 'Journal of Inflammation Research'
 paperurl: 'https://www.tandfonline.com/doi/full/10.2147/JIR.S338212'
 
 ---
-The study presents a multiplex TaqMan qPCR assay (MTq-PCR) for quick profiling of dominant gut microbial phyla, aiding in Fecal Microbiota Transplantation (FMT) for ulcerative colitis (UC) treatment. This method is highlighted as a cost and time-effective alternative to conventional next-generation sequencing (NGS), suitable for emergency scenarios and routine microbiota monitoring in UC patients, as well as evaluating potential FMT donors.
 
-[Download paper here](http://YoungJaeJo.github.io/files/publication1.pdf)
 
