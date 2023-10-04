@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my site! I'm youngJae Jo!"
+title: "Welcome to my site! I'm YoungJae Jo!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
