@@ -1,5 +1,6 @@
 ---
-title: "Alterations and Prediction of Functional Profiles of Gut Microbiota After Fecal Microbiota Transplantation for Iranian Recurrent Clostridioides difficile Infection with Underlying Inflammatory Bowel Disease: A Pilot Study"
+title: "Alterations and Prediction of Functional Profiles of Gut Microbiota After Fecal Microbiota Transplantation for Iranian Recurrent Clostridioides difficile Infection with 
+        Underlying Inflammatory Bowel Disease: A Pilot Study"
 collection: publications
 permalink: /publication/2022-9-17-Alterations and Prediction of Functional Profiles of Gut Microbiota After Fecal Microbiota Transplantation for Iranian Recurrent Clostridioides difficile Infection with Underlying Inflammatory Bowel Disease: A Pilot Study
 
