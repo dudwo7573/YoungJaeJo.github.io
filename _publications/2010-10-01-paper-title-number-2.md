@@ -1,5 +1,5 @@
 ---
-title: "In situ profiling of the three dominant phyla within the human gut using TaqMan PCR for pre-hospital diagnosis of gut dysbiosis"
+title: "Alterations and Prediction of Functional Profiles of Gut Microbiota After Fecal Microbiota Transplantation for Iranian Recurrent Clostridioides difficile Infection with Underlying Inflammatory Bowel Disease: A Pilot Study"
 collection: publications
 permalink: /publication/2020-3-10-In situ profiling of the three dominant phyla within the human gut using TaqMan PCR for pre-hospital diagnosis of gut dysbiosis
 
